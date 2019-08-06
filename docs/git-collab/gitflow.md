@@ -1,3 +1,12 @@
+---
+layout: default
+title: Git Workflow
+parent: Git Collaboration
+nav_order: 4
+---
+
+# Git Workflow
+
 Please read https://datasift.github.io/gitflow/IntroducingGitFlow.html
 
 **Notes:** 
@@ -12,15 +21,15 @@ Please read https://datasift.github.io/gitflow/IntroducingGitFlow.html
 * Make sure that all unit tests pass before submitting your code for review.
 
 ## Creating a New Feature
-1. Get latest from dev - `git checkout dev` and then `git pull`
+1. Get latest from dev - `git checkout develop` and then `git pull`
 1. From the dev branch, create a new branch for your new feature - `git checkout -b feature/some-stuff`
 1. Start coding
 1. Commit often. If one small part is already working, commit your files. Make sure to commit files that you have changed for the development of the feature. Do not just perform a `git add .` without checking the files list.
 
 ## Setting for Code Review
-1. Make sure that you get the latest from dev and then merge the latest code from dev to your branch. 
+1. Make sure that you get the latest from develop and then merge the latest code from dev to your branch. 
 1. Resolve conflicts in your branch if you have to
 1. Push your branch to origin
-1. Go to github.dxc.com and then create a pull request (PR). Click the "New Pull Request" button. In the compare field, select your branch. In the base field, select dev. Click on the "Create Pull Request" button afterwards.
+1. Go to the project repository in github.dxc.com and then create a pull request (PR). Click the "New Pull Request" button. In the compare field, select your branch. In the base field, select dev. Click on the "Create Pull Request" button afterwards.
 1. Please set the reviewer at the right panel after creating a new pull request
 
