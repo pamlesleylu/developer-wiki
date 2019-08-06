@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Git Collaboration
-nav_order: 2
+nav_order: 1
 has_children: true
 permalink: /docs/git-collab
 ---
