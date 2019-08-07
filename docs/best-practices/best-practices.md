@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Best Practices
-permalink: /best-practices
+permalink: /best-practices/home
 ---
 
 - [Coding Standards](/best-practices/coding-standards)
