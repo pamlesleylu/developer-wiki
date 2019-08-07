@@ -18,7 +18,10 @@ description: >- # this means to ignore newlines until "baseurl:"
   "Truth can only be found in one place: the code." - Robert C. Martin
 
 header_pages:
-  - about.md
+  - docs/best-practices/best-practices.md
+  - docs/git-collab/git-collab.md
+  - docs/db-migration.md
+  - docs/unit-tests/unit-tests.md
 
 # Build settings
 markdown: kramdown
