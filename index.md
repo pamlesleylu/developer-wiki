@@ -5,4 +5,6 @@
 layout: home
 ---
 
-Hello
+Hello, world!
+
+If you seek guidance, click on the links in the header.
