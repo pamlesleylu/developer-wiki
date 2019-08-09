@@ -9,6 +9,6 @@ permalink: /git/home
 We will use git as the version control system and [DXC's GitHub](https://github.dxc.com) instance.
 
 
-- [Setup](/git/setup)
-- [Workflow](/git/workflow)
-- [Commit Messages](/git/commit-message)
+- [Setup](setup)
+- [Workflow](workflow)
+- [Commit Messages](commit-message)

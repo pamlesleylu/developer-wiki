@@ -7,6 +7,6 @@ permalink: /unit-tests/home
 ---
 
 
-- [Backend](/unit-tests/backend)
-- [Frontend](/unit-tests/frontend)
+- [Backend](backend)
+- [Frontend](frontend)
 

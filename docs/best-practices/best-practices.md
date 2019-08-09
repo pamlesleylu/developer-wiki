@@ -6,8 +6,8 @@ permalink: /best-practices/home
 
 Please read the following pages:
 
-- [Coding Standards](/best-practices/coding-standards)
-- [Directory Structure](/best-practices/directory-structure)
+- [Coding Standards](coding-standards)
+- [Directory Structure](directory-structure)
 
 
 ## Principles and Best Practices
