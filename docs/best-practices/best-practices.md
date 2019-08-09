@@ -47,5 +47,26 @@ API is still an Interface
 
 ### CSS
 
-1. Never hard code font sizes. Either use `em`, `rem` or the variable from variables.less
-2. Never hard code colors. Use a variable from `variables.less`
+Flexible Styling
+: Do not hardcode colors and font sizes so that it will be easier to change the look and feel for theming
+- Never hard code font sizes. Either use `em`, `rem` or the variable from variables.less
+- Never hard code colors. Use a variable from `variables.less`
+
+CSS Organization
+: Organize the declared styles in your stylesheet according to the order of elements in the correspond HTML
+
+Class names instead of ID Selector
+: Use class names instead of ID selector. 
+Instead of
+```css
+    #main {
+        width: 100%;
+    }
+```
+Use this
+```css
+    .main-content {
+        width: 100%;
+    }
+```
+

@@ -10,6 +10,5 @@ We will use git as the version control system and [DXC's GitHub](https://github.
 
 
 - [Setup](/git/setup)
-- [Study Guide](/git/study-guide)
 - [Workflow](/git/workflow)
 - [Commit Messages](/git/commit-message)

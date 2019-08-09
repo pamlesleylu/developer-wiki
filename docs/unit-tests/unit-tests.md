@@ -7,7 +7,6 @@ permalink: /unit-tests/home
 ---
 
 
-- [Study Guide](/unit-tests/study-guide)
 - [Backend](/unit-tests/backend)
 - [Frontend](/unit-tests/frontend)
 

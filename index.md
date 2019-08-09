@@ -7,6 +7,8 @@ layout: home
 
 Hello, world!
 
-If you seek guidance, let the pages within light your way. You may start by clicking on the links in the header.
+If you're new, you may check the [study guide](/study-guide) for a list of reading materials and tutotial videos of the technologies used by Client Zero applications.
+
+If you got the basics already, please follow the links in the nav bar in the header and read through them.
 
 If you find that the answers to your questions are not within in this wiki, please click [here](https://www.google.com).
