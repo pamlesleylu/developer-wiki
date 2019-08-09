@@ -30,7 +30,7 @@ DO NOT Hardcode
 Use Available Infomration when Debugging
 : When something's not working in your code, check the logs first. Do not just gloss over the logs but actually read them. Use tools that will help in debugging. For HTML and JavaScript, use the browser's DOM inspector. Add browser plugins for getting more infomration if necessary.
 
-GMG
+GMG (Google mo, girl!)
 : Google is your friend. Most of the answers to your questions are probably online. Improve your google-fu.
 
 Ask the Right Questions
