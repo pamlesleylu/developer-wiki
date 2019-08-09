@@ -2,3 +2,12 @@ footer {
     padding-top: 10px;
     border-top: 1px solid $grey-color-light;
 }
+
+dt {
+    font-weight: bolder;
+    margin-bottom: 0.3em;
+}
+
+dd + dt {
+    margin-top: 1.7em;
+}
