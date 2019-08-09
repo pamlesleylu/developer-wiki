@@ -15,3 +15,36 @@ dd + dt {
 .task-list-item-checkbox {
     margin-right: 10px;
 }
+
+.quote-container {
+    position: relative;
+    margin: 0 4em;
+    font-style: italic;
+    color:#808080d1;
+
+    .message {
+        text-align: justify;
+        margin-bottom: 0.3em;
+
+        span::before {
+            content: '"';
+            font-family: "Times New Roman", Times, serif;
+            position: absolute;
+            font-size: 2.5rem;
+            top: -1rem;
+            left: -1.5rem;
+        }
+    
+        span::after {
+            content: '"';
+            font-family: "Times New Roman", Times, serif;
+            position: absolute;
+            font-size: 2.5rem;
+            bottom: 0.5rem;
+        }
+    }
+
+    .author {
+        text-align: right;
+    }
+}

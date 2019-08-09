@@ -4,17 +4,6 @@ title: Best Practices
 permalink: /best-practices/coding-standards
 ---
 
-## General
-
-1. Make code expressive such that it can be easily understood by people. With this, comments can be optional. Comments are still code that need to be maintained. If code is littered with comments, every time the code changes, the corresponding comment needs to be updated. Comment the code to explain a very complicated algorithm (only if code can't be simplified) or to document the reason why the logic is as it is.
-
-#### CSS
-
-1. Never hard code font sizes. Either use `em`, `rem` or the variable from variables.less
-1. Never hard code colors. Use a variable from `variables.less`
-
-----
-
 ## Coding Standards
 
 ### Indention

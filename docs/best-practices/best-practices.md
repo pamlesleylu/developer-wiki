@@ -4,6 +4,15 @@ title: Best Practices
 permalink: /best-practices/home
 ---
 
+<div class="quote-container">
+    <p class="message">
+        <span>Computer programming is an art, because it applies accumulated knowledge to the world, because it requires skill and ingenuity, and especially because it produces objects of beauty. A programmer who subconsciously views himself as an artist will enjoy what he does and will do it better.</span>
+    </p>
+    <p class="author">
+        - Donald Knuth
+    </p>
+</div>
+
 Please read the following pages:
 
 - [Coding Standards](coding-standards)
