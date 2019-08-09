@@ -7,7 +7,7 @@ layout: home
 
 Hello, world!
 
-If you're new, you may check the [study guide](/study-guide) for a list of reading materials and tutotial videos of the technologies used by Client Zero applications.
+If you're new, you may check the [study guide](study-guide) for a list of reading materials and tutotial videos of the technologies used by Client Zero applications.
 
 If you got the basics already, please follow the links in the nav bar in the header and read through them.
 
