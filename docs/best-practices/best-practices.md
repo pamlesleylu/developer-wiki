@@ -36,7 +36,7 @@ DRY Principle
 DO NOT Hardcode
 : Keep in mind that the code you're writing will be deployed somehwere else. In the new environment, the database and other external systems that your code is connected to may be different. Connection details must be placed in environment variables so that the same codebase can be used when deloyed to different environments. 
 
-Use Available Infomration when Debugging
+Use Available Information when Debugging
 : When something's not working in your code, check the logs first. Do not just gloss over the logs but actually read them. Use tools that will help in debugging. For HTML and JavaScript, use the browser's DOM inspector. Add browser plugins for getting more infomration if necessary.
 
 GMG (Google mo, girl!)
@@ -58,8 +58,7 @@ API is still an Interface
 
 Flexible Styling
 : Do not hardcode colors and font sizes so that it will be easier to change the look and feel for theming
-- Never hard code font sizes. Either use `em`, `rem` or the variable from variables.less
-- Never hard code colors. Use a variable from `variables.less`
+- Either use `em`, `rem` or a variable found in the theme's less variables file
 
 CSS Organization
 : Organize the declared styles in your stylesheet according to the order of elements in the correspond HTML
