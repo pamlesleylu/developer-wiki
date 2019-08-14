@@ -37,13 +37,13 @@ DO NOT Hardcode
 : Keep in mind that the code you're writing will be deployed somehwere else. In the new environment, the database and other external systems that your code is connected to may be different. Connection details must be placed in environment variables so that the same codebase can be used when deloyed to different environments. 
 
 Use Available Information when Debugging
-: When something's not working in your code, check the logs first. Do not just gloss over the logs but actually read them. Use tools that will help in debugging. For HTML and JavaScript, use the browser's DOM inspector. Add browser plugins for getting more infomration if necessary.
+: When something's not working in your code, check the logs first. Do not just gloss over the logs but actually read them. Use tools that will help in debugging. For HTML and JavaScript, use the browser's DOM inspector. Add browser plugins for getting more information if necessary.
 
 GMG (Google mo, girl!)
 : Google is your friend. Most of the answers to your questions are probably online. Improve your google-fu.
 
 Ask the Right Questions
-:  If you're still stuck after looking for answers online and trying out different approaches, seek help from other developers. When asking questions, state the problem with proper context. That is, don't assume that the other developer is clairvoyant by just copy pasting the problematic line of code and saying that it does not work. Information like the user story your working on, the other parts of the program before it went to the problematic line of code and **the things that you've already tried** are very important.
+:  If you're still stuck after looking for answers online and trying out different approaches, seek help from other developers. When asking questions, state the problem with proper context. That is, don't assume that the other developer is clairvoyant by just copy pasting the problematic line of code and saying that it does not work. Information like the user story you're working on, the other parts of the program before it went to the problematic line of code and **the things that you've already tried** are very important.
 
 Never Stop Learning
 : Read a lot. Practice what you read. Share your learnings.

@@ -10,7 +10,7 @@ permalink: /best-practices/coding-standards
 1. Use **2 spaces** for each indention. Install VSCode extension https://github.com/editorconfig/editorconfig-vscode to read .editorconfig file
 
 
-### Whitepsaces
+### Whitespaces
 
 #### Typescript
 1. Use 1 space before leading brace after function name (use `functionName() {` instead of `functionName(){`)
